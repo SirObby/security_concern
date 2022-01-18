@@ -27,9 +27,9 @@
 #echo -e "\e[1;46m CYAN \e[0m"
 #echo ""
 
-echo -e "\e[1;41m WARNING \e[0m  LOOK BEFORE YOU PASTE!  \e[1;41m WARNING \e[0m"
+echo -e "\e[41;5m WARNING \e[0m  LOOK BEFORE YOU PASTE!  \033[41;5m WARNING \e[0m"
 echo -e ""
 echo -e "When you copy and pasted something, it could have been malicious code!"
 echo -e "Next time, paste into a notepad application, before pasting into a terminal or website!"
 echo -e ""
-echo -e "\e[1;41m WARNING \e[0m  LOOK BEFORE YOU PASTE!  \e[1;41m WARNING \e[0m"
+echo -e "\e[41;5m WARNING \e[0m  LOOK BEFORE YOU PASTE!  \033[41;5m WARNING \e[0m"
