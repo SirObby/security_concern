@@ -18,7 +18,7 @@
 #echo -e "\e[1;35m MAGENTA \e[0m"
 #echo -e "\e[1;36m CYAN \e[0m"
 #echo ""
-echo "BACKGROUND COLOR"
+#echo "BACKGROUND COLOR"
 #echo -e "\e[1;41m RED \e[0m"
 #echo -e "\e[1;42m GREEN \e[0m"
 #echo -e "\e[1;43m YELLOW \e[0m"
